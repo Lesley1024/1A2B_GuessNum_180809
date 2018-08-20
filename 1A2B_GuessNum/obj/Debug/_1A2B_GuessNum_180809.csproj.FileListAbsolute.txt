@@ -1,0 +1,10 @@
+C:\Users\III\Desktop\PracticeForNothing\1A2B_GuessNum_180809\1A2B_GuessNum\obj\Debug\_1A2B_GuessNum_180809.csprojAssemblyReference.cache
+C:\Users\III\Desktop\PracticeForNothing\1A2B_GuessNum_180809\1A2B_GuessNum\obj\Debug\_1A2B_GuessNum.Form1.resources
+C:\Users\III\Desktop\PracticeForNothing\1A2B_GuessNum_180809\1A2B_GuessNum\obj\Debug\_1A2B_GuessNum.Properties.Resources.resources
+C:\Users\III\Desktop\PracticeForNothing\1A2B_GuessNum_180809\1A2B_GuessNum\obj\Debug\_1A2B_GuessNum_180809.csproj.GenerateResource.cache
+C:\Users\III\Desktop\PracticeForNothing\1A2B_GuessNum_180809\1A2B_GuessNum\obj\Debug\_1A2B_GuessNum_180809.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\PracticeForNothing\1A2B_GuessNum_180809\1A2B_GuessNum\obj\Debug\1A2B_GuessNum.exe
+C:\Users\III\Desktop\PracticeForNothing\1A2B_GuessNum_180809\1A2B_GuessNum\obj\Debug\1A2B_GuessNum.pdb
+C:\Users\III\Desktop\PracticeForNothing\1A2B_GuessNum_180809\1A2B_GuessNum\bin\Debug\1A2B_GuessNum.exe.config
+C:\Users\III\Desktop\PracticeForNothing\1A2B_GuessNum_180809\1A2B_GuessNum\bin\Debug\1A2B_GuessNum.exe
+C:\Users\III\Desktop\PracticeForNothing\1A2B_GuessNum_180809\1A2B_GuessNum\bin\Debug\1A2B_GuessNum.pdb
